@@ -5,3 +5,6 @@ Small game application build with Javascript
 
 
 ![](b.gif)
+
+You can visit the game here:
+https://blackjack-dom-manipulation.vercel.app/
