@@ -22,9 +22,14 @@ body {
 .flex-blackjack-row-1 div {
   border: 1px solid black;
   padding: 10px;
-  height: 350px;
+  height: 55vh;
   flex: 1;
   text-align: center;
+}
+
+.flex-blackjack-row-1 img {
+  width: 23%;
+  padding: 10px;
 }
 
 .flex-blackjack-row-2 button{
