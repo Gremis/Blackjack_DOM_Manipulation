@@ -48,6 +48,9 @@ td {
 }
 
 @media (max-width: 900px) {
+  body {
+    background-size: 180%;
+  }
   h2 {
     font-size: 20px;
   }
@@ -81,8 +84,12 @@ td {
 }
 
 @media (max-width: 376px) {
-  
-  h2, h3 {
+  body {
+    background-size: 150%;
+  }
+
+  h2,
+  h3 {
     font-size: 10px;
   }
 
@@ -92,7 +99,7 @@ td {
 
   .flex-blackjack-row-2 button {
     padding: 5px;
-    font-size:x-small;
+    font-size: x-small;
   }
 
   .flex-blackjack-row-2 div {
@@ -109,8 +116,12 @@ td {
 }
 
 @media (max-width: 300px) {
-  
-  h2, h3 {
+  body {
+    background-size: 150%;
+  }
+
+  h2,
+  h3 {
     font-size: 10px;
   }
 
@@ -120,7 +131,7 @@ td {
 
   .flex-blackjack-row-2 button {
     padding: 2px;
-    font-size:xx-small;
+    font-size: xx-small;
   }
 
   .flex-blackjack-row-2 div {
