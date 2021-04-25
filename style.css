@@ -107,3 +107,31 @@ td {
     font-size: 10px;
   }
 }
+
+@media (max-width: 300px) {
+  
+  h2, h3 {
+    font-size: 10px;
+  }
+
+  .flex-blackjack-row-1 div {
+    height: 10vh;
+  }
+
+  .flex-blackjack-row-2 button {
+    padding: 2px;
+    font-size:xx-small;
+  }
+
+  .flex-blackjack-row-2 div {
+    padding: 2px;
+  }
+
+  table,
+  th,
+  td {
+    padding: 3px;
+    border: 1px solid white;
+    font-size: 5px;
+  }
+}
